@@ -1,0 +1,8 @@
+FROM alpine:latest
+RUN apk update
+RUN apk add git
+WORKDIR /data
+VOLUME /data
+ENTRYPOINT ["git","clone"]
+CMD ["https://github.com/vladimirpokatilov/homework.git"]
+
