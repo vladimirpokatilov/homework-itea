@@ -1,3 +1,3 @@
 # homework-itea
-Repo for my home DevOPs homw works
+Repo for my home DevOPs homу works
 MarkDown 
